@@ -1,0 +1,71 @@
+
+@import url('https://fonts.googleapis.com/css2?family=SUSE:wght@100..800&display=swap');
+
+/* navbar */
+.nav1{
+    background-color: #FF4800;
+}
+
+.nav-elments:hover{
+    color: FF4800;
+}
+
+/* section 1 */
+.text_data{
+    position: absolute;
+    top: 40%;
+    left: 15%;
+}
+
+/* section 2 */
+.Volunteer_section{
+    background-color: #FF4800;
+    border-radius: 30px;
+}
+.Online_Conference:hover{
+    background-color: #FF4800;
+    border-radius: 30px;
+    color: white;
+}
+
+/* section 4 */
+.sec4bg{
+    background-image:linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url(img/background/sec4bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+/* section 5 */
+.sub{
+    font-size:13px;
+}
+
+.foot{
+    background-image:linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url(img/illustration/footer.jpg);
+}
+
+/*buttons */
+
+.b1{
+    border: none;
+    background-color:FF4800 ;
+    color: white;
+    width: 140px;
+    height: 40px;
+    border-radius: 20px;
+}
+.b2{
+    background: transparent;
+    border-color:FF4800 ;
+    color: white;
+    width: 140px;
+    height: 40px;
+    border-radius: 20px;
+}
+
+.owl-nav{
+    position: relative;
+   margin-left:48%;
+   font-size: 30px;
+   padding-bottom: 10px;
+}
